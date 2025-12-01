@@ -1,0 +1,7 @@
+C:\Users\CC2_PC35\Documents\tarbajo\tarbajo\bin\Debug\tarbajo.exe
+C:\Users\CC2_PC35\Documents\tarbajo\tarbajo\bin\Debug\tarbajo.pdb
+C:\Users\CC2_PC35\Documents\tarbajo\tarbajo\obj\Debug\tarbajo.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC35\Documents\tarbajo\tarbajo\obj\Debug\tarbajo.MainForm.resources
+C:\Users\CC2_PC35\Documents\tarbajo\tarbajo\obj\Debug\tarbajo.csproj.GenerateResource.Cache
+C:\Users\CC2_PC35\Documents\tarbajo\tarbajo\obj\Debug\tarbajo.exe
+C:\Users\CC2_PC35\Documents\tarbajo\tarbajo\obj\Debug\tarbajo.pdb
