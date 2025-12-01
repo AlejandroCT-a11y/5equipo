@@ -1,0 +1,7 @@
+C:\Users\janux\OneDrive\Documentos\SharpDevelop Projects\estudiante\estudiante\obj\Debug\estudiante.csprojResolveAssemblyReference.cache
+C:\Users\janux\OneDrive\Documentos\SharpDevelop Projects\estudiante\estudiante\obj\Debug\estudiante.MainForm.resources
+C:\Users\janux\OneDrive\Documentos\SharpDevelop Projects\estudiante\estudiante\obj\Debug\estudiante.csproj.GenerateResource.Cache
+C:\Users\janux\OneDrive\Documentos\SharpDevelop Projects\estudiante\estudiante\bin\Debug\estudiante.exe
+C:\Users\janux\OneDrive\Documentos\SharpDevelop Projects\estudiante\estudiante\bin\Debug\estudiante.pdb
+C:\Users\janux\OneDrive\Documentos\SharpDevelop Projects\estudiante\estudiante\obj\Debug\estudiante.exe
+C:\Users\janux\OneDrive\Documentos\SharpDevelop Projects\estudiante\estudiante\obj\Debug\estudiante.pdb
