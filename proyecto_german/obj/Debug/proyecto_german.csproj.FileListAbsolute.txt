@@ -1,0 +1,7 @@
+C:\Users\CC2_PC34\Documents\SharpDevelop Projects\proyecto_german\proyecto_german\bin\Debug\proyecto_german.exe
+C:\Users\CC2_PC34\Documents\SharpDevelop Projects\proyecto_german\proyecto_german\bin\Debug\proyecto_german.pdb
+C:\Users\CC2_PC34\Documents\SharpDevelop Projects\proyecto_german\proyecto_german\obj\Debug\proyecto_german.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC34\Documents\SharpDevelop Projects\proyecto_german\proyecto_german\obj\Debug\proyecto_german.MainForm.resources
+C:\Users\CC2_PC34\Documents\SharpDevelop Projects\proyecto_german\proyecto_german\obj\Debug\proyecto_german.csproj.GenerateResource.Cache
+C:\Users\CC2_PC34\Documents\SharpDevelop Projects\proyecto_german\proyecto_german\obj\Debug\proyecto_german.exe
+C:\Users\CC2_PC34\Documents\SharpDevelop Projects\proyecto_german\proyecto_german\obj\Debug\proyecto_german.pdb
